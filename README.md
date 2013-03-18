@@ -1,6 +1,6 @@
 # a Codeminer42
 
-# Escritórios
+## Escritórios
 
 A Codeminer42 possui hoje quatro escritórios no Brasil:
 
@@ -9,7 +9,7 @@ A Codeminer42 possui hoje quatro escritórios no Brasil:
 - Fortaleza
 - Porto Alegre
 
-# Quero ser um *miner*! E agora?
+## Quero ser um *miner*! E agora?
 
 Primeiro, cria um fork desse projeto. Dentro do seu fork:
 
@@ -23,37 +23,37 @@ Pode adicionar também **qualquer coisa** que achar que é relevante para
 nós. Pode ser um trabalho anterior, twitter, linkedin, **projetos open
 source**, etc.
 
-# Condições
+## Condições
 
 - Regime CLT
 - Período Integral
 - Local: um dos escritórios anteriormente listados
 
-# Benefícios
+## Benefícios
 
 - Seguro saúde/odontológico
 - Vale refeição
 
-# Vagas
+## Vagas
 
 Atualmente procuramos pessoas que se encaixem nos seguintes perfis:
 
-## Ruby
+### Ruby
 - Rails
 - Javascript
 - Testes com Rspec, Minitest, etc.
 
-## Objective-C/iOS
+### Objective-C/iOS
 - Conhecer APIs do iOS
 - Testes com Kiwi ou outro framework de testes
 - Plus: Testes de integração/UI
 
-## Java/Web
+### Java/Web
 - VRaptor
 - Maven e/ou Gradle
 - Testes
 
-## Java/Android
+### Java/Android
 - APIs para Android
 - Build automatizado
 - Testes
