@@ -2,14 +2,15 @@
 
 ## Escritórios
 
-A Codeminer42 possui hoje seis escritórios no Brasil:
+A Codeminer42 possui hoje sete escritórios no Brasil:
 
-- São Paulo
-- Natal
+- Anápolis
 - Campinas
+- Natal
 - Novo Hamburgo
-- Teresina
+- São Paulo
 - Sorocaba
+- Teresina
 
 ## Quero ser um *miner*! E agora?
 
